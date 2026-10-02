@@ -1,0 +1,26 @@
+{
+  "source_url": "https://ghoapi.azureedge.net/api/MH_6",
+  "downloaded_record_count": 146,
+  "valid_record_count": 146,
+  "skipped_record_count": 0,
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "region_averages": {
+    "Africa": 0.27,
+    "South-East Asia": 0.6,
+    "Americas": 4.06,
+    "Western Pacific": 4.68,
+    "Europe": 12.89,
+    "Eastern Mediterranean": 1.39
+  },
+  "access_counts": {
+    "Under 1": 62,
+    "1 to 5": 39,
+    "Over 5": 45
+  }
+}
